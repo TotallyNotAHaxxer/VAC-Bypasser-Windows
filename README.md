@@ -33,7 +33,7 @@ This is a very very simple GUI written using C++20 and the windows API. This GUI
 * Advanced - Characterset = Use Multi Byte Character Set
 
 <p align="center">
-  <img src="https://github.com/ArkAngeL43/VAC-Bypasser-Windows/blob/main/git/Prop2.PMG" width="100%" title="hover text">
+  <img src="https://github.com/ArkAngeL43/VAC-Bypasser-Windows/blob/main/git/Prop2.PNG" width="100%" title="hover text">
 </p>
 
 * Linker - System - Subsystem = Not Set
