@@ -45,7 +45,7 @@ This is a very very simple GUI written using C++20 and the windows API. This GUI
 ### Build and execute ### 
 
 <p align="center">
-  <img src="https://github.com/ArkAngeL43/VAC-Bypasser-Windows/blob/main/git/Example.PNG" width="100%" title="hover text">
+  <img src="https://github.com/ArkAngeL43/VAC-Bypasser-Windows/blob/main/git/Injector.PNG" width="100%" title="hover text">
 </p>
 
 * hardware info 
