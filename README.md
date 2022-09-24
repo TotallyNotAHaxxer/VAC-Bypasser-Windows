@@ -19,7 +19,7 @@ This is a very very simple GUI written using C++20 and the windows API. This GUI
 ### Open MSVSC ( Microsoft Visual Studio Code ) and select release and X86 ) ###
 
 <p align="center">
-  <img src="git/Set1.png" width="100%" title="hover text">
+  <img src="" width="100%" title="hover text">
 </p>
 
 ### Right click on `loader` and select properties ###
@@ -51,7 +51,7 @@ This is a very very simple GUI written using C++20 and the windows API. This GUI
 * hardware info 
 
 <p align="center">
-  <img src="git/Hardware.png" width="100%" title="hover text">
+  <img src="https://github.com/ArkAngeL43/VAC-Bypasser-Windows/blob/main/git/Hardware.PNG" width="100%" title="hover text">
 </p>
 
 
