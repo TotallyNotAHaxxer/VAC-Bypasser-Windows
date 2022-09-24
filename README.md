@@ -39,19 +39,19 @@ This is a very very simple GUI written using C++20 and the windows API. This GUI
 * Linker - System - Subsystem = Not Set
 
 <p align="center">
-  <img src="https://github.com/ArkAngeL43/VAC-Bypasser-Windows/blob/main/git/Prop3.PNG" width="100%" title="hover text">
+  <img src="https://github.com/ArkAngeL43/VAC-Bypasser-Windows/blob/main/git/Prop3.PNG" width="50%" title="hover text">
 </p>
 
 ### Build and execute ### 
 
 <p align="center">
-  <img src="https://github.com/ArkAngeL43/VAC-Bypasser-Windows/blob/main/git/Injector.PNG" width="100%" title="hover text">
+  <img src="https://github.com/ArkAngeL43/VAC-Bypasser-Windows/blob/main/git/Injector.PNG" width="50%" title="hover text">
 </p>
 
 * hardware info 
 
 <p align="center">
-  <img src="https://github.com/ArkAngeL43/VAC-Bypasser-Windows/blob/main/git/Hardware.PNG" width="100%" title="hover text">
+  <img src="https://github.com/ArkAngeL43/VAC-Bypasser-Windows/blob/main/git/Hardware.PNG" width="50%" title="hover text">
 </p>
 
 
