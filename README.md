@@ -38,6 +38,11 @@ This is a very very simple GUI written using C++20 and the windows API. This GUI
 
 ![](git/Example.png)
 
+* hardware info 
+
+![](git/Hardware.png)
+
+
 
 
 
