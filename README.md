@@ -18,30 +18,41 @@ This is a very very simple GUI written using C++20 and the windows API. This GUI
 
 ### Open MSVSC ( Microsoft Visual Studio Code ) and select release and X86 ) ###
 
-![](git/Set1.png)
-
+<p align="center">
+  <img src="git/Set1.png" width="100%" title="hover text">
+</p>
 
 ### Right click on `loader` and select properties ###
 
 * General - C++ standard = ISO C++20 Standard 
 
-![](git/Properties.png)
+<p align="center">
+  <img src="git/Properties.png" width="100%" title="hover text">
+</p>
 
 * Advanced - Characterset = Use Multi Byte Character Set
 
-![](git/Prop2.png)
+<p align="center">
+  <img src="git/Prop2.png" width="100%" title="hover text">
+</p>
 
 * Linker - System - Subsystem = Not Set
 
-![](git/Prop3.png)
+<p align="center">
+  <img src="git/Prop3.png" width="100%" title="hover text">
+</p>
 
 ### Build and execute ### 
 
-![](git/Example.png)
+<p align="center">
+  <img src="git/Example.png" width="100%" title="hover text">
+</p>
 
 * hardware info 
 
-![](git/Hardware.png)
+<p align="center">
+  <img src="git/Hardware.png" width="100%" title="hover text">
+</p>
 
 
 
